@@ -1,0 +1,648 @@
+Full_Name,Age,Gender,Family_type,Family_background,Person_type,Friends,B_nch,Student_type,Relation_teacher,Decision,Leadershipness,Helping,Usual_rank,Extra_activities,Presentation,Tours,Remark_8,Remark_10,Remark_Bach,Inspired,Teacher_family,Teacher
+Ramesh Niraula,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,5,5,Below 15,5,1,4,0,1,2,No,No,1
+Vijaya Niroula,Below 30,Female,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,5,3,Below 5,5,3,Above 4,0,0,0,Yes,Yes,1
+Aishwarya Tandukar,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Below 15,3,3,Above 4,1,1,2,Yes,No,1
+Amrita Bhandari,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,3,5,Below 5,5,3,1,1,1,2,Yes,Yes,1
+Muna dahal,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,1,1,0,1,2,Yes,No,1
+Sujata Chudal,Below 50,Female,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+Asmita parajuli,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,5,3,2,0,1,0,Yes,No,1
+sandhya mali,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,3,1,0,1,Yes,No,1
+Sapna puri,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,1,Above 15,1,3,3,1,1,2,Yes,No,1
+Junu Danuwar,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Below 5,5,3,2,0,0,1,Yes,No,1
+Roshan Dhungel,Below 30,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 5,3,3,1,1,1,2,Yes,Yes,1
+Pradip Khanal,Below 40,Male,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,3,Below 10,3,3,Above 4,1,1,2,Yes,No,1
+Rachana Nyaichyai,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,5,No,5,3,Below 15,3,4,Above 4,1,1,1,Yes,Yes,1
+जय बहादुर रोकाय,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,5,Below 5,5,2,Above 4,1,1,0,Yes,Yes,1
+Mandip kumar kushwaha,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,Yes,5,5,Below 15,3,3,2,1,1,0,Yes,No,1
+Man Bahadur Resmi,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Average,5,Yes,3,3,Below 5,3,3,3,1,1,1,Yes,No,1
+Samikshya Subedi,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,5,Below 5,5,1,2,0,0,1,Yes,Yes,1
+ABC,Below 40,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,3,3,2,1,1,1,Yes,Yes,1
+Balaram Puri,Below 40,Male,Joint,Middle class,Introvert,Below 2,First rows,Average,3,No,1,3,Below 10,5,2,4,2,1,2,Yes,Yes,1
+Maheshwar Shrestha ,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,3,Below 15,3,2,1,2,2,2,Yes,Yes,1
+Anuka Basnet,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,3,Below 5,3,3,4,0,1,2,Yes,No,1
+Sujita Thapa Magar,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,No,5,3,Below 5,3,3,2,1,1,2,Yes,Yes,1
+Sonal Ranabhat ,Below 30,Male,Small,Middle class,Introvert,Below 2,First rows,Hard worker,3,Yes,1,3,Below 5,3,1,2,1,0,1,Yes,No,1
+Prakash Manandhar,Below 40,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 10,3,3,1,2,1,2,Yes,No,1
+Anisha Khatiwada,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,5,No,1,5,Below 5,3,4,1,1,1,1,Yes,No,1
+Sagar Paudel,Below 40,Male,Small,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,3,Below 5,5,4,Above 4,1,2,2,Yes,No,1
+Binita Thapa,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,2,3,Above 15,3,3,1,1,1,1,Yes,No,1
+Sushil Giri,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Average,3,Yes,5,3,Below 5,3,3,2,1,1,2,Yes,No,1
+Anita Tamang,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,3,3,Above 4,1,1,2,Yes,Yes,1
+Roshani KC,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Average,3,No,5,3,Below 15,5,3,3,1,1,1,No,Yes,1
+Sushma wanem,Below 40,Female,Joint,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,3,3,Below 15,3,4,2,0,1,2,Yes,No,1
+Shrijana Pathak,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,5,Yes,2,5,Above 15,3,3,1,1,1,2,Yes,Yes,1
+Keshav Rijal,Below 40,Male,Small,Middle class,Introvert,Below 10,First rows,Hard worker,3,No,1,3,Below 5,5,4,Above 4,1,1,1,Yes,Yes,1
+Keshab Bhandari,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Average,3,Yes,3,3,Below 5,3,3,2,1,2,2,Yes,No,1
+kamal neupane,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Negligent,3,Yes,5,3,Below 15,3,2,2,0,1,1,Yes,Yes,1
+Pragati thakuri,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Below 5,3,3,4,1,1,1,Yes,No,1
+DIL PRASAD PRAJAPATI,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,3,Below 5,5,2,Above 4,0,1,2,Yes,No,1
+Prem,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,5,Yes,5,5,Below 5,5,4,Above 4,0,1,2,Yes,No,1
+Ganesh Joshi,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,3,5,Below 5,5,3,2,1,2,2,Yes,No,1
+Anita Mishra,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,4,5,Above 15,5,3,4,1,1,2,Yes,No,1
+Raju Kumar Sapkota,Below 40,Male,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,No,3,5,Below 5,5,3,Above 4,0,1,2,Yes,Yes,1
+Sujan Dahal,Below 30,Male,Small,Low class,Extrovert,Below 2,First rows,Average,5,Yes,5,5,Below 5,5,4,4,0,1,2,Yes,No,1
+Shradha Gadtaula ,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,1,3,Above 15,3,3,1,1,1,1,No,No,1
+Ashmita kunwar,Below 30,Female,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,5,Below 15,3,3,2,1,1,3,Yes,No,1
+Naguma shrestha,Below 30,Female,Small,Low class,Introvert,Below 5,Last rows,Average,3,No,5,1,Below 5,3,3,1,1,1,2,No,No,1
+Ruby,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,1,1,1,2,Yes,No,1
+Bishwa Ghimire,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,5,3,Below 5,5,4,2,1,2,2,Yes,Yes,1
+Aradhana Shrestha ,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,3,1,0,1,2,No,No,1
+Mahima limbu,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Above 15,1,2,1,3,2,2,Yes,No,1
+Tanka Bahadur Mahat,Below 30,Male,Joint,Low class,Introvert,Below 5,First rows,Average,5,Yes,3,3,Below 5,3,2,1,1,1,2,Yes,No,1
+Lalita bhandadi,Below 40,Female,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,No,1,5,Below 5,3,2,3,1,1,1,Yes,No,1
+Subash Regmi,Below 30,Male,Small,Middle class,Extrovert,Below 2,Last rows,Hard worker,5,No,3,5,Below 5,5,3,2,0,0,1,No,No,1
+Subash Regmi,Below 30,Male,Small,Middle class,Extrovert,Below 2,Last rows,Hard worker,5,No,3,5,Below 5,5,3,2,0,0,1,No,No,1
+Monika Karki,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,5,No,3,3,Below 5,5,3,3,0,1,1,Yes,No,1
+Samiksha Basnet,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,No,3,3,Below 5,5,3,5,0,0,1,Yes,Yes,1
+Ashish phuyal,Below 30,Male,Small,Middle class,Extrovert,Below 15,First rows,Hard worker,5,No,5,5,Below 5,3,3,Above 4,0,0,1,Yes,Yes,1
+Tasnina karki,Below 30,Female,Small,Low class,Introvert,Below 2,First rows,Average,3,No,2,1,Below 5,1,1,1,0,1,1,No,No,1
+Lakshmi Shrestha,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,3,3,0,1,1,Yes,No,1
+Tumin,Below 30,Female,Small,Low class,Introvert,Below 10,Middle rows,Hard worker,3,No,5,3,Below 5,3,3,1,1,1,2,Yes,No,1
+Rubina Baniya,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,5,3,Above 4,1,1,1,Yes,No,1
+Ragu Subedi,Below 40,Male,Small,Low class,Extrovert,Below 5,Last rows,Average,3,Yes,5,1,Above 15,5,2,4,1,1,3,Yes,No,1
+Dor Bahadur Aryal,Below 50,Male,Joint,Middle class,Extrovert,Above 15,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,Above 4,2,2,2,Yes,Yes,1
+Yawal Kumar Khamcha ,Below 30,Male,Small,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,3,Below 5,3,2,2,2,1,2,Yes,No,1
+Nisha Humagain,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,3,5,Below 5,5,3,3,1,0,1,Yes,No,1
+Subashna Tamang,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,3,Above 4,1,1,1,Yes,No,1
+Alisha Niraula,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Average,5,Yes,5,5,Below 5,5,3,Above 4,1,1,2,Yes,Yes,1
+Sangita Gurung,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,5,No,5,3,Below 5,5,3,3,0,1,2,Yes,No,1
+सञ्जय कुमार राम,Below 30,Male,Joint,Low class,Introvert,Below 10,Middle rows,Average,3,Yes,3,3,Below 15,3,3,3,1,1,2,Yes,No,1
+,Below 30,Male,Joint,Low class,Introvert,Below 10,Middle rows,Average,5,Yes,5,3,Below 10,1,1,3,1,1,2,Yes,No,1
+Hom Bahadur Nepali,Below 30,Male,Small,Low class,Extrovert,Below 15,Middle rows,Average,3,Yes,5,3,Below 5,5,3,2,2,2,2,Yes,No,1
+kala balayar,Below 30,Female,Small,Low class,Extrovert,Below 10,Middle rows,Average,3,No,1,3,Above 15,5,2,Above 4,2,2,3,No,No,1
+Rakesh Regmi,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,3,2,Above 4,1,2,1,Yes,Yes,1
+Aakriti KC,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,5,2,2,1,0,1,No,Yes,1
+Srijana Shrestha,Below 30,Female,Small,Middle class,Introvert,Below 2,First rows,Average,5,Yes,5,3,Below 5,3,2,3,1,1,2,Yes,No,1
+Manisha Rai,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,5,Below 5,3,3,3,2,1,2,Yes,Yes,1
+Dikshya Chamling Rai,Below 30,Female,Small,Middle class,Extrovert,Below 15,Middle rows,Average,3,No,5,5,Below 5,5,3,Above 4,0,0,1,Yes,No,1
+anita aryal,Below 30,Female,Joint,Middle class,Introvert,Below 10,First rows,Average,5,No,5,3,Below 15,1,3,1,1,1,2,Yes,No,1
+Kajol Thapa,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,3,3,Below 5,3,4,1,1,0,0,Yes,No,1
+Pradip Ghimire,Below 40,Male,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,5,5,Below 5,3,2,1,1,2,2,No,No,1
+Jeetendra@sxc.edu.np,Below 60,Male,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,No,3,3,Below 5,3,1,2,1,1,1,Yes,No,1
+Nisha Dulal,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,5,5,Below 5,5,3,1,1,1,2,Yes,Yes,1
+Xx,Below 50,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,5,No,5,5,Below 15,5,4,Above 4,0,0,0,No,Yes,1
+Naresh Kumar,Below 50,Male,Small,Middle class,Introvert,Below 15,First rows,Hard worker,5,No,5,5,Below 5,5,4,Above 4,1,1,2,Yes,No,1
+Ather Qureshi,Below 50,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Below 5,3,2,Above 4,0,1,1,No,No,1
+Dipak oli,Below 40,Male,Joint,Low class,Introvert,Above 15,First rows,Hard worker,5,Yes,3,5,Below 5,3,3,4,1,2,2,Yes,Yes,1
+Kashi Ram Dahal,Below 40,Male,Small,Low class,Introvert,Below 2,Middle rows,Average,3,Yes,1,3,Below 5,3,2,1,2,2,2,No,No,1
+Rene V.Lamberte Jr,Below 30,Male,Small,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,3,Above 15,5,3,3,2,2,1,Yes,Yes,1
+Susheni Peiris,Below 50,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,Yes,3,3,Below 5,3,3,Above 4,0,1,3,No,Yes,1
+Kimaira shanice achary,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,Yes,5,3,Above 15,5,3,Above 4,0,2,2,Yes,Yes,1
+Sumitra shresth,Below 50,Female,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,3,5,Below 5,5,1,1,1,1,2,Yes,No,1
+prakash bhattarai,Below 50,Male,Small,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,3,Below 5,3,4,1,1,2,2,Yes,No,1
+Gayani Sandamali Wimalasooriya ,Below 50,Female,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,3,Above 15,3,2,Above 4,0,0,3,No,Yes,1
+Uyanga,Below 50,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,3,1,Below 15,1,1,2,3,2,1,No,No,1
+Laxmi pd subedi,Below 50,Male,Small,Low class,Introvert,Below 15,First rows,Hard worker,5,Yes,5,3,Below 5,5,2,3,1,1,2,Yes,No,1
+asnat rashid,Below 50,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,3,3,Above 4,1,1,1,No,Yes,1
+Shankar Blon,Below 30,Male,Small,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,5,Above 15,3,3,2,2,1,1,Yes,No,1
+Bhoj Raj Dahal,Below 30,Male,Small,Middle class,Introvert,Below 2,First rows,Average,3,No,1,3,Below 5,3,3,1,2,1,2,Yes,No,1
+Jennifer Singh,Below 40,Female,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Above 15,5,5,1,2,2,2,Yes,No,1
+Sasi Krishnan ,Below 50,Male,Small,Low class,Introvert,Below 10,First rows,Hard worker,3,No,3,3,Below 15,3,2,2,3,3,2,Yes,No,1
+keshab prassd khatiwada,Below 50,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,1,1,1,2,Yes,No,1
+Prem Thapa,Below 50,Male,Small,Low class,Introvert,Below 10,First rows,Hard worker,3,No,3,3,Above 15,3,2,1,1,1,2,Yes,No,1
+Tulsi Nepal,Below 50,Male,Small,Low class,Introvert,Below 5,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,3,2,3,2,Yes,No,1
+Khyati,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,5,No,5,3,Below 15,5,4,Above 4,1,2,1,Yes,No,1
+Saurav sharma,Below 30,Male,Small,Middle class,Extrovert,Below 2,Middle rows,Average,3,No,5,5,Below 15,3,2,2,2,1,0,Yes,No,1
+Chiranjibi Adhikari,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,Above 4,1,2,1,Yes,No,1
+Suman Thapaliya,Below 40,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,5,No,5,1,Above 15,3,3,1,1,1,1,No,No,1
+Chiran Rayamajhi,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,5,Below 5,5,3,2,1,1,1,Yes,No,1
+Sarala Karki,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,5,3,Below 5,5,3,1,0,1,2,Yes,No,1
+Deepak Bastola,Below 40,Male,Small,Middle class,Extrovert,Above 15,First rows,Hard worker,5,Yes,5,5,Below 5,5,4,1,1,1,1,Yes,Yes,1
+Prakash Chandra panjiyar,Below 50,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,3,5,Above 15,1,3,1,1,1,2,No,No,1
+Bibek Dhungel ,Below 30,Male,Small,Low class,Extrovert,Below 5,First rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,0,1,Yes,No,1
+Krishna Bhandari,Below 30,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,5,3,Below 5,5,3,Above 4,1,1,0,No,No,1
+Sachin poudel,Below 30,Male,Small,Middle class,Extrovert,Below 15,Middle rows,Hard worker,5,Yes,5,3,Below 5,5,3,2,1,1,2,Yes,No,1
+Bc,Below 40,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,5,5,Above 15,5,4,1,0,1,2,Yes,Yes,1
+Pallabi Paul,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,3,Yes,5,3,Below 15,3,3,2,1,1,2,Yes,Yes,1
+Makka Tambieva ,Below 60,Female,Joint,High class,Extrovert,Below 2,First rows,Hard worker,1,Yes,5,3,Above 15,5,4,Above 4,2,2,2,Yes,Yes,1
+Bigyan Acharya,Below 30,Male,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,3,Below 15,5,2,2,2,2,2,No,No,1
+surendra koirala,Below 30,Male,Small,High class,Introvert,Below 15,Last rows,Hard worker,3,Yes,3,3,Below 15,3,3,Above 4,0,1,1,Yes,No,1
+Rajendra pd.Pandey,Below 50,Male,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,3,5,Below 5,1,2,Above 4,2,2,3,Yes,No,1
+Manita ,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,5,Below 15,3,3,1,1,2,2,No,Yes,1
+Raj Kumar Dhakal,Below 50,Male,Small,Middle class,Extrovert,Below 15,First rows,Hard worker,5,No,5,5,Below 5,5,4,1,1,1,2,Yes,No,1
+Gopalprasad Ghimire,Below 60,Male,Joint,Middle class,Introvert,Below 10,First rows,Average,3,Yes,5,3,Below 10,5,2,4,2,2,2,Yes,Yes,1
+Narayan Pokhrel ,Below 40,Male,Joint,Middle class,Introvert,Below 15,Middle rows,Average,5,No,3,3,Below 5,3,2,2,1,1,2,Yes,Yes,1
+Dharm singh saud,Below 40,Male,Small,Middle class,Introvert,Below 2,First rows,Average,3,Yes,1,3,Below 5,3,4,1,1,2,2,Yes,No,1
+Rameshwor,Below 40,Male,Small,Low class,Extrovert,Below 5,First rows,Hard worker,5,No,5,3,Below 15,5,3,4,1,2,2,Yes,No,1
+Suresh Limbu,Below 50,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,3,3,Above 15,5,4,2,1,1,2,No,No,1
+Susetha,Below 40,Female,Joint,Middle class,Introvert,Below 2,Last rows,Average,3,No,3,3,Above 15,3,3,3,3,1,1,Yes,Yes,1
+Anjana ,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,Above 4,0,0,0,Yes,Yes,1
+Youbraj Aryal,Below 40,Male,Joint,High class,Extrovert,Below 5,Middle rows,Hard worker,5,No,3,3,Below 5,3,3,Above 4,1,2,2,No,No,1
+Sumina Neupane,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,2,4,0,0,1,Yes,No,0
+Prayash rijal,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,1,1,Yes,Yes,1
+Pramin Shakya,Below 30,Male,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,3,3,Above 15,3,3,Above 4,0,0,0,Yes,Yes,0
+Rashmi Gautam ,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,5,3,Below 5,3,4,1,0,0,2,Yes,Yes,0
+Ramesh Adhikari,Below 30,Male,Small,Low class,Introvert,Below 2,First rows,Average,3,No,3,3,Below 5,1,1,1,1,0,1,Yes,Yes,0
+Dikshyant Acharya,Below 30,Male,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,1,5,Below 5,1,2,1,0,0,1,Yes,Yes,0
+Sanish Maharjan,Below 30,Male,Small,Middle class,Extrovert,Below 2,Middle rows,Average,3,No,1,3,Above 15,5,2,1,1,0,1,No,No,0
+Krishna yadav,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,3,5,Below 5,5,4,2,0,0,1,Yes,Yes,0
+Anjali Kapali,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,5,3,Below 5,5,3,4,0,0,0,Yes,Yes,0
+Aliza Paneru,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,3,4,1,0,0,0,Yes,Yes,0
+Sajin,Below 30,Male,Small,Middle class,Extrovert,Below 5,Last rows,Negligent,3,No,3,3,Above 15,3,3,1,1,0,0,Yes,Yes,0
+Prashant Gyawali,Below 30,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+Santosh Neupane,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,3,3,Above 4,0,0,1,Yes,No,0
+Bhawana Adhikari,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+Bijay Bhujel,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+barsha khadka,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,0
+Raksha Paneru,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+Sushmita Thapa Magar,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+Bidhya Niroula,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+urusha ghimire,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,5,Above 15,3,4,2,0,0,0,Yes,Yes,0
+Swaichha Upreti ,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+Meera Gautam,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+Subarna Thapa,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+Kritibha bhujel,Below 30,Female,Small,Middle class,Extrovert,Above 15,Middle rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+Reecha pokhrel,Below 30,Female,Joint,Middle class,Extrovert,Below 2,First rows,Average,3,Yes,5,5,Below 5,5,3,2,0,0,1,Yes,No,1
+Ajita joshi,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,0,0,1,Yes,Yes,1
+Alok Shrestha,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Below 5,3,2,3,0,0,1,Yes,Yes,0
+Shraddha Shrestha,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Above 15,1,2,3,0,0,1,Yes,Yes,0
+sajan dhakal,Below 30,Male,Small,Low class,Introvert,Below 10,Last rows,Negligent,5,No,3,5,Below 5,3,2,2,0,0,2,Yes,Yes,1
+Abhishek Pandey,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,1,5,Below 5,1,3,4,0,0,1,Yes,Yes,0
+Anjana Koirala,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,1,3,Below 10,3,2,1,1,1,2,Yes,No,0
+Sanam Maharjan,Below 30,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,3,3,Above 15,1,2,Above 4,0,0,2,No,No,0
+Nimiska Pandey,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,3,5,Above 15,3,3,2,0,0,1,Yes,No,0
+Riya Baral,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,No,3,5,Below 15,5,3,4,1,1,1,Yes,No,0
+anonymous,Below 30,Male,Small,Low class,Introvert,Below 5,First rows,Average,3,No,1,1,Above 15,1,2,Above 4,1,1,1,Yes,No,0
+Kalpana lama,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,3,3,1,1,2,Yes,Yes,0
+Bishan Neupane,Below 30,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,5,No,3,3,Below 15,5,3,Above 4,0,1,1,Yes,No,0
+Manisha Neupane,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Average,5,No,1,3,Below 5,3,2,1,1,1,2,No,Yes,0
+Prasiddha Kansakar,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 10,3,2,Above 4,1,0,2,No,No,0
+Shreeya Shahi,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Negligent,3,No,1,3,Above 15,5,3,2,1,1,3,Yes,No,0
+Surya Khanal,Below 30,Male,Joint,Middle class,Extrovert,Above 15,Middle rows,Average,3,No,5,5,Below 5,5,4,3,0,0,1,Yes,No,0
+Barsha Ramtel ,Below 30,Female,Small,Low class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Above 15,3,2,1,1,1,1,Yes,No,0
+Sangam prasain,Below 30,Male,Small,Low class,Introvert,Below 5,Middle rows,Average,1,No,3,1,Above 15,3,1,1,1,1,3,No,No,0
+Asmita Bakhrel,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,Yes,5,5,Below 5,5,3,1,0,0,0,Yes,Yes,0
+Gyanu Maya Tamang,Below 30,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,5,No,5,3,Below 5,5,2,Above 4,0,0,1,Yes,No,0
+Sabina Bastola,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,Yes,3,3,Below 5,5,2,1,1,1,1,Yes,Yes,0
+khusbu bhandari,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,3,1,1,0,1,Yes,No,0
+Namratachapagain,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,Above 4,0,1,0,Yes,Yes,0
+Anish Sapkota,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,3,Below 5,3,2,1,0,0,1,Yes,No,0
+Biren Maharjan,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,1,5,Below 5,5,2,4,0,0,1,Yes,Yes,0
+Binita Thapa,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Average,3,Yes,3,3,Below 5,3,3,1,1,1,1,Yes,No,1
+asmita bhattarai,Below 30,Female,Small,Middle class,Introvert,Below 5,Last rows,Hard worker,3,No,3,3,Below 5,3,3,Above 4,0,0,0,Yes,No,0
+Surakshya bhattarai,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Hard worker,5,No,5,5,Above 15,5,4,3,0,0,0,Yes,No,0
+Paristha Acharya,Below 30,Female,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,2,Above 4,0,1,2,Yes,No,1
+Alisha basnet,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,5,No,5,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+Ritika Sharma ,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Below 5,3,3,1,1,2,3,Yes,No,0
+Hamiz Mirza,Below 60,Female,Joint,Low class,Introvert,Below 2,Middle rows,Negligent,1,No,1,1,Above 15,1,2,1,1,1,0,Yes,Yes,0
+Prateema Bhandari,Below 30,Female,Small,Middle class,Extrovert,Below 2,Last rows,Average,3,No,3,5,Below 5,3,3,1,2,1,1,Yes,Yes,0
+paujan rai,Below 30,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,5,3,Below 5,3,3,1,1,2,2,Yes,No,1
+somy Bhattrai,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,Yes,5,3,Below 5,3,2,1,0,1,1,Yes,No,0
+Suman Thapa,Below 30,Male,Small,Middle class,Extrovert,Below 10,Middle rows,Hard worker,3,Yes,3,3,Below 5,5,3,3,1,1,2,Yes,No,0
+Kusum K.C ,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,3,1,1,1,1,No,No,0
+Manish Wagle,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,1,3,Below 5,5,2,2,0,0,1,Yes,No,0
+Amira Karki,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Hard worker,3,No,3,3,Below 5,3,2,4,1,0,2,Yes,No,0
+Rubee shakya,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,5,Below 15,1,3,5,0,0,0,Yes,No,0
+Samjhana,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,1,1,1,2,0,No,No,0
+Lal maya gurung ,Below 30,Male,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,1,3,Above 15,5,4,1,2,1,0,Yes,No,0
+Supriya Thapa,Below 30,Male,Small,Middle class,Extrovert,Below 10,Last rows,Average,3,No,1,5,Above 15,3,3,2,0,1,1,Yes,No,0
+Sangita Nepal,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,3,3,Above 15,1,3,1,0,0,0,Yes,No,0
+Karuna Baruwal,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,3,3,Below 5,3,2,2,0,0,1,Yes,Yes,0
+Nabin Thapa ,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,5,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+Mandira pangeni,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,5,4,4,2,2,2,No,No,0
+Ambika giri ,Below 30,Female,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,Yes,3,3,Below 5,3,2,4,0,1,2,Yes,Yes,0
+Sasmita  Devkota,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,3,4,1,1,0,Yes,Yes,0
+Pragyaghimire,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 15,5,3,1,1,1,1,Yes,No,0
+Sushant Gnawali,Below 30,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,3,3,Below 5,3,2,3,1,0,2,No,Yes,0
+anju thapa,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,3,3,Above 15,3,4,2,1,1,1,No,Yes,0
+Sumina Neupane,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,2,4,0,0,1,Yes,No,0
+Prayash rijal,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,1,1,Yes,Yes,1
+Pramin Shakya,Below 30,Male,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,3,3,Above 15,3,3,Above 4,0,0,0,Yes,Yes,0
+Rashmi Gautam ,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,4,1,0,0,2,Yes,Yes,0
+Ashma Kunwar,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,No,3,3,Below 5,3,2,2,1,0,1,Yes,Yes,0
+Anju thapa,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,3,3,Above 15,5,1,1,1,2,1,Yes,Yes,0
+Pramisha chudal,Below 30,Male,Small,Middle class,Extrovert,Below 10,Middle rows,Hard worker,5,No,3,5,Above 15,3,4,1,0,0,1,Yes,Yes,0
+Shovana Kandu ,Below 30,Male,Joint,Middle class,Introvert,Below 2,Last rows,Average,5,Yes,3,5,Below 15,3,1,1,1,1,0,Yes,No,0
+sarojkarki,Below 30,Female,Small,High class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,4,5,2,0,0,0,No,No,0
+Rakesh thapa,Below 30,Male,Small,Middle class,Extrovert,Below 15,Middle rows,Average,3,No,4,1,Below 15,4,3,Above 4,1,3,0,Yes,No,0
+Bishal Karki,Below 30,Male,Joint,Middle class,Extrovert,Below 10,First rows,Hard worker,4,Yes,2,5,Below 10,4,4,Above 4,1,0,1,No,No,0
+Priya Shahi,Below 40,Female,Small,High class,Introvert,Below 5,First rows,Hard worker,5,No,4,3,Below 5,5,5,4,0,0,1,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,5,1,0,0,1,No,No,0
+,Below 40,Male,Small,High class,Extrovert,Below 2,Middle rows,Average,4,No,4,3,Below 10,4,4,3,1,1,1,No,Yes,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Last rows,Negligent,3,No,3,3,Above 15,3,3,1,1,0,0,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,3,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,5,No,5,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Above 15,5,4,4,2,2,2,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,Yes,3,3,Below 5,3,2,4,0,1,2,Yes,Yes,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Above 15,3,3,4,1,1,0,Yes,Yes,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 15,5,3,1,1,1,1,Yes,No,0
+,Below 40,Female,Joint,High class,Introvert,Below 5,First rows,Hard worker,5,No,4,3,Below 5,5,5,4,0,0,1,No,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,5,1,0,0,1,No,No,0
+,Below 40,Male,Small,High class,Extrovert,Below 2,Middle rows,Average,4,No,4,3,Below 10,4,4,3,1,1,1,No,Yes,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Last rows,Negligent,3,No,3,3,Above 15,3,3,1,1,0,0,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,1,1,0,1,2,Yes,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 10,First rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,3,3,Below 15,5,3,2,0,1,0,Yes,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,3,1,0,1,Yes,No,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,5,Yes,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 10,5,2,2,1,0,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Last rows,Average,3,No,5,3,Below 5,5,3,1,1,1,2,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,Yes,1,3,Below 10,5,3,Above 4,1,1,1,Yes,No,0
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,5,No,1,3,Above 15,5,4,4,2,2,2,No,No,1
+,Below 40,Male,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,Yes,3,3,Below 5,3,2,4,0,1,2,Yes,Yes,0
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,3,Above 4,1,1,0,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 15,5,3,1,1,1,1,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Average,3,Yes,5,5,Below 15,5,1,4,0,1,2,No,No,1
+,Below 40,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,5,3,Below 5,5,3,Above 4,0,0,0,Yes,Yes,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Below 15,3,3,Above 4,1,1,2,Yes,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,Last rows,Hard worker,5,Yes,3,5,Below 5,5,3,1,1,1,2,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,1,1,0,1,2,Yes,No,1
+,Below 50,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,5,2,2,0,1,0,Yes,No,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,3,3,3,1,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,1,1,Above 15,1,3,3,1,1,2,Yes,No,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Average,3,Yes,3,3,Below 5,5,2,2,0,0,1,Yes,No,1
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 5,3,3,1,1,1,2,Yes,Yes,1
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 10,3,3,Above 4,1,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,5,No,5,3,Below 15,3,4,Above 4,1,1,1,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,5,Below 5,5,2,Above 4,1,1,0,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Introvert,Below 5,First rows,Average,5,Yes,5,5,Below 15,3,3,2,1,1,0,Yes,No,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Average,5,Yes,3,3,Below 5,3,3,3,1,1,1,Yes,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,5,Below 5,5,1,2,0,0,1,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,1,1,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,3,Above 15,3,3,Above 4,0,0,0,Yes,Yes,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,5,3,Below 5,4,4,1,0,0,2,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,No,3,3,Below 5,3,2,2,1,0,1,Yes,Yes,0
+,Below 50,Female,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,3,No,3,3,Above 15,5,1,1,1,2,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,Yes,3,5,Above 15,3,4,1,0,0,1,Yes,Yes,1
+,Below 50,Male,Joint,Middle class,Introvert,Below 2,First rows,Average,5,No,2,5,Below 5,4,1,1,1,1,0,Yes,No,0
+,Below 30,Male,Joint,High class,Introvert,Below 2,Middle rows,Hard worker,5,Yes,5,5,Below 5,4,5,2,1,1,1,No,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 15,Middle rows,Average,3,No,2,1,Below 5,5,3,Above 4,1,3,0,Yes,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 10,First rows,Hard worker,4,Yes,2,5,Below 10,2,4,Above 4,1,1,1,No,No,0
+,Below 40,Male,Small,High class,Introvert,Below 5,First rows,Hard worker,5,No,4,3,Below 5,4,5,4,0,0,1,No,No,0
+,Below 50,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,3,Below 15,5,3,2,0,1,0,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,Yes,3,3,Below 5,3,5,3,1,0,1,Yes,No,1
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,3,No,1,1,Above 15,1,3,3,1,1,2,Yes,No,0
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,5,3,2,0,0,1,Yes,No,1
+,Below 40,Male,Small,High class,Extrovert,Below 2,Middle rows,Average,4,No,4,3,Below 10,3,6,3,1,1,1,No,Yes,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Last rows,Negligent,3,No,3,3,Above 15,3,3,1,1,0,0,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,2,1,Above 4,0,1,2,Yes,No,1
+,Below 50,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,5,5,Below 15,5,1,4,0,1,2,No,No,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Last rows,Average,3,No,5,3,Below 5,5,3,Above 4,0,0,0,Yes,Yes,1
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Below 15,1,3,Above 4,1,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,3,5,Below 5,5,3,1,1,1,2,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,Yes,5,5,Below 5,4,1,1,0,1,2,Yes,No,1
+,Below 50,Female,Small,Middle class,Extrovert,Below 10,Last rows,Average,3,No,3,3,Below 15,3,2,3,1,1,2,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 15,5,3,2,0,1,0,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 5,1,3,3,1,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,1,1,Above 15,1,3,3,1,1,2,Yes,No,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Last rows,Average,3,No,3,3,Below 5,5,3,2,0,0,1,No,No,1
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,1,1,1,2,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,Yes,3,3,Below 10,3,3,Above 4,1,1,2,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,5,No,5,3,Below 15,3,4,Above 4,1,1,1,Yes,Yes,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,5,Below 5,5,2,Above 4,1,1,0,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,5,Yes,5,5,Below 15,5,3,2,1,1,0,Yes,No,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Average,5,Yes,3,3,Below 5,3,3,3,1,1,1,Yes,No,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,5,Below 5,5,1,2,0,0,1,Yes,Yes,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,3,3,2,1,1,1,Yes,Yes,0
+,Below 40,Male,Joint,Middle class,Introvert,Below 2,Last rows,Average,3,No,1,3,Below 10,5,2,4,2,1,2,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,5,2,Above 4,2,2,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,3,Below 5,3,3,4,0,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,No,5,3,Below 5,2,3,2,1,1,2,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Last rows,Hard worker,3,Yes,1,3,Below 5,3,1,2,1,0,1,Yes,No,1
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 10,2,3,1,2,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,5,No,1,5,Below 5,3,4,1,1,1,1,Yes,No,0
+,Below 40,Male,Small,Middle class,Introvert,Below 10,Middle rows,Hard worker,5,Yes,5,3,Below 5,5,4,Above 4,1,2,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,Yes,3,3,Above 15,3,3,1,1,1,1,Yes,No,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,5,3,Below 5,3,3,2,1,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,3,3,4,1,1,2,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Average,3,No,5,3,Below 15,5,3,3,1,1,1,No,Yes,0
+,Below 40,Female,Joint,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,3,3,Below 15,3,4,Above 4,0,1,2,Yes,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Last rows,Average,5,Yes,3,5,Above 15,3,3,1,1,1,2,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Introvert,Below 10,Middle rows,Hard worker,3,No,3,3,Below 5,5,4,4,1,1,1,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,Yes,3,3,Below 5,3,3,2,1,2,2,Yes,No,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Negligent,3,Yes,5,3,Below 15,3,2,2,0,1,1,Yes,Yes,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Last rows,Average,3,No,3,3,Below 5,3,3,4,1,1,1,Yes,No,0
+,Below 40,Male,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 5,5,2,4,0,1,2,Yes,No,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,Yes,5,5,Below 5,5,4,Above 4,0,1,2,Yes,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,3,5,Below 5,5,3,2,1,2,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,3,5,Above 15,5,3,4,1,1,2,Yes,No,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 10,Last rows,Hard worker,5,No,3,5,Below 5,5,3,Above 4,0,1,2,Yes,Yes,1
+,Below 30,Male,Small,Low class,Extrovert,Below 2,Middle rows,Average,5,Yes,5,5,Below 5,5,4,4,0,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,1,3,Above 15,3,3,1,1,1,1,No,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,3,5,Below 15,3,3,2,1,1,3,Yes,No,1
+,Below 30,Female,Small,Low class,Introvert,Below 5,Last rows,Average,3,No,5,1,Below 5,3,3,Above 4,1,1,2,No,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 10,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,1,1,1,2,Yes,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,5,3,Below 5,5,4,2,1,2,2,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,3,1,0,1,2,No,No,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Above 15,1,2,Above 4,3,2,2,Yes,No,1
+,Below 30,Male,Small,Low class,Introvert,Below 5,Last rows,Average,5,Yes,3,3,Below 5,3,2,1,1,1,2,Yes,No,1
+,Below 40,Female,Joint,Middle class,Introvert,Below 10,Middle rows,Average,3,No,1,5,Below 5,3,2,3,1,1,1,Yes,No,1
+,Below 30,Male,Joint,Middle class,Extrovert,Below 2,First rows,Hard worker,5,No,3,5,Below 5,5,3,Above 4,0,0,1,No,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,3,5,Below 5,5,3,2,0,0,1,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,5,No,3,3,Below 5,5,3,3,1,1,1,Yes,No,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,3,3,Below 5,5,3,Above 4,0,0,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 15,First rows,Hard worker,5,No,5,5,Below 5,3,3,3,1,0,1,Yes,Yes,1
+,Below 30,Male,Small,Low class,Introvert,Below 2,First rows,Average,3,No,1,1,Below 5,1,1,1,0,1,1,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,3,3,0,1,1,No,No,1
+,Below 30,Male,Small,Low class,Introvert,Below 10,Middle rows,Hard worker,3,No,5,3,Below 5,3,3,1,1,1,2,Yes,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,5,3,Above 4,0,1,1,Yes,No,1
+,Below 40,Male,Joint,Low class,Extrovert,Below 5,Last rows,Average,3,Yes,5,1,Above 15,5,2,4,1,1,3,No,No,1
+,Below 50,Male,Small,Middle class,Extrovert,Above 15,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,Above 4,2,2,2,Yes,Yes,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,5,3,Below 5,3,2,2,2,1,2,No,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,3,5,Below 5,5,3,3,0,0,1,Yes,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,3,Above 4,1,1,1,No,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,5,Yes,5,5,Below 5,5,3,Above 4,1,1,2,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,5,No,5,3,Below 5,5,3,3,0,1,2,Yes,No,1
+,Below 30,Male,Small,Low class,Introvert,Below 10,Last rows,Average,3,Yes,3,3,Below 15,3,3,3,2,1,2,Yes,No,1
+,Below 40,Male,Joint,Low class,Introvert,Below 10,First rows,Average,5,Yes,5,3,Below 10,1,1,3,1,1,2,No,No,1
+,Below 30,Male,Joint,Low class,Extrovert,Below 15,First rows,Average,3,Yes,5,3,Below 5,5,3,2,1,2,2,Yes,No,1
+,Below 30,Female,Small,Low class,Extrovert,Below 10,Middle rows,Average,3,No,1,3,Above 15,5,2,3,2,2,3,No,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,First rows,Average,3,Yes,3,3,Below 5,3,2,3,1,2,1,No,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,5,2,2,1,0,1,No,Yes,1
+,Below 40,Female,Joint,Middle class,Introvert,Below 2,First rows,Average,5,Yes,5,3,Below 5,3,2,3,1,1,2,Yes,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,5,Below 5,3,3,3,2,1,2,No,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 15,First rows,Average,3,No,5,5,Below 5,5,3,Above 4,0,0,1,Yes,No,1
+,Below 40,Female,Small,Middle class,Introvert,Below 10,First rows,Average,5,Yes,5,3,Below 15,1,3,1,1,1,2,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,3,3,Below 5,3,4,1,1,0,0,Yes,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,5,5,Below 5,3,2,1,1,2,2,No,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,Yes,3,3,Below 5,3,1,2,1,1,1,Yes,No,1
+,Below 30,Male,Joint,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,5,5,Below 5,5,3,1,1,1,2,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Last rows,Average,5,No,5,5,Below 15,5,4,Above 4,0,0,0,No,Yes,1
+,Below 40,Female,Small,Middle class,Introvert,Below 15,First rows,Hard worker,5,Yes,5,5,Below 5,5,4,Above 4,1,1,2,Yes,No,1
+,Below 40,Male,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Below 5,3,2,Above 4,0,1,1,No,No,1
+,Below 40,Male,Small,Low class,Introvert,Above 15,First rows,Hard worker,5,Yes,3,5,Below 5,3,3,4,1,2,2,Yes,Yes,1
+,Below 40,Male,Joint,Low class,Introvert,Below 2,Middle rows,Average,3,Yes,1,3,Below 5,3,2,1,2,2,2,No,No,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Average,3,No,3,3,Above 15,5,3,3,2,2,1,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,3,3,Below 5,3,3,Above 4,10,1,3,No,Yes,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,5,Yes,5,3,Above 15,5,3,Above 4,0,2,2,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Last rows,Hard worker,3,No,3,5,Below 5,5,1,1,1,1,2,Yes,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,3,Below 5,3,4,1,1,2,2,Yes,No,1
+,Below 50,Female,Small,Middle class,Introvert,Below 10,First rows,Average,3,No,3,3,Above 15,3,2,2,0,0,3,No,Yes,1
+,Below 50,Female,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,3,1,Below 15,1,1,2,3,2,1,No,No,1
+,Below 40,Male,Joint,Low class,Introvert,Below 15,First rows,Hard worker,5,Yes,5,3,Below 5,5,2,3,1,1,2,Yes,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,3,3,Above 4,1,1,1,No,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,5,Above 15,3,3,2,3,1,1,Yes,No,1
+,Below 40,Male,Small,Middle class,Introvert,Below 2,First rows,Average,3,No,1,3,Below 5,3,3,1,2,1,1,Yes,No,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 2,First rows,Average,3,No,1,3,Above 15,1,2,1,2,2,2,Yes,Yes,0
+,Below 50,Female,Joint,Low class,Introvert,Below 10,Middle rows,Hard worker,3,No,3,3,Below 15,3,2,2,3,1,1,Yes,No,0
+,Below 50,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,1,1,1,1,No,Yes,0
+,Below 50,Male,Small,Low class,Introvert,Below 10,Last rows,Hard worker,3,No,3,3,Above 15,3,2,1,0,0,2,Yes,No,0
+,Below 50,Male,Joint,Low class,Introvert,Below 5,First rows,Hard worker,3,Yes,3,3,Below 5,3,3,3,2,3,1,Yes,No,0
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,First rows,Average,5,No,5,3,Below 15,5,4,1,1,2,1,No,Yes,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 2,Middle rows,Average,3,No,5,5,Below 15,3,2,2,2,1,0,Yes,No,0
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,Above 4,1,2,1,Yes,No,1
+,Below 40,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,5,No,5,1,Above 15,3,3,1,1,1,1,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Average,3,Yes,3,5,Below 5,5,3,2,1,1,1,Yes,No,1
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Average,5,No,5,3,Below 5,5,3,1,0,1,2,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Extrovert,Above 15,First rows,Hard worker,5,Yes,5,5,Below 5,5,4,1,0,1,1,Yes,Yes,1
+,Below 40,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,3,5,Above 15,1,3,1,1,1,2,No,No,1
+,Below 30,Male,Joint,Low class,Extrovert,Below 5,First rows,Hard worker,5,Yes,3,5,Above 15,3,2,1,0,0,1,Yes,No,1
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,5,3,Above 4,1,1,0,No,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 15,Middle rows,Hard worker,5,Yes,5,3,Below 15,5,3,2,1,1,2,Yes,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,5,5,Below 5,5,4,1,0,1,2,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,3,Yes,5,3,Above 15,3,3,2,1,1,2,Yes,Yes,1
+,Below 40,Male,Joint,High class,Extrovert,Below 2,First rows,Hard worker,1,Yes,5,3,Below 5,5,4,Above 4,0,2,2,Yes,Yes,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Average,3,No,3,3,Below 5,5,2,2,2,2,2,No,No,1
+,Below 30,Male,Small,High class,Introvert,Below 15,Last rows,Hard worker,3,Yes,3,3,Below 5,3,3,Above 4,0,1,1,Yes,No,0
+,Below 50,Female,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,3,5,Below 5,1,2,Above 4,2,2,3,Yes,No,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,First rows,Average,3,No,3,5,Below 15,3,3,1,1,2,2,No,Yes,0
+,Below 50,Male,Joint,Middle class,Extrovert,Below 15,First rows,Hard worker,5,No,5,5,Below 5,5,4,1,1,1,2,Yes,No,1
+,Below 60,Male,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,5,3,Below 10,5,2,4,2,2,2,Yes,Yes,1
+,Below 40,Male,Joint,Middle class,Introvert,Below 15,First rows,Average,5,No,3,3,Below 5,3,2,2,1,1,2,Yes,Yes,0
+,Below 40,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,Yes,1,3,Below 15,3,4,1,0,2,2,Yes,No,1
+,Below 40,Male,Joint,Low class,Extrovert,Below 5,First rows,Hard worker,5,No,5,3,Below 5,5,3,4,1,2,2,Yes,No,1
+,Below 50,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,3,3,Above 15,5,4,2,1,1,2,No,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 2,Last rows,Average,3,No,3,3,Below 5,3,3,3,3,1,1,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Below 5,3,3,1,0,0,0,Yes,Yes,1
+,Below 40,Male,Small,High class,Extrovert,Below 5,First rows,Hard worker,5,No,3,3,Below 5,3,3,1,1,2,2,No,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,2,4,0,0,1,Yes,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,1,1,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,3,3,Above 15,3,3,Above 4,0,0,0,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,3,Below 5,3,4,1,0,0,2,Yes,Yes,0
+,Below 30,Male,Small,Low class,Introvert,Below 2,Middle rows,Average,3,Yes,3,3,Below 5,1,1,1,1,0,1,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,1,5,Below 5,1,2,1,0,0,1,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,3,No,1,3,Above 15,5,2,1,1,0,1,No,No,0
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,3,5,Below 5,5,4,2,0,0,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Average,5,Yes,5,3,Below 5,5,3,4,0,0,0,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,5,No,5,5,Below 5,3,4,1,0,0,0,Yes,Yes,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,First rows,Negligent,3,No,3,3,Above 15,3,3,1,1,0,0,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 40,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,No,No,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,3,Yes,5,5,Below 15,5,3,2,0,0,1,No,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,1,1,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Above 15,3,2,3,0,0,1,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Below 5,1,2,3,1,0,1,No,Yes,0
+,Below 40,Male,Small,Low class,Introvert,Below 10,Last rows,Negligent,5,No,3,5,Below 5,3,2,2,0,0,2,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,1,5,Below 5,1,3,4,1,0,1,No,Yes,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,1,3,Below 10,3,2,1,1,1,2,No,No,0
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,3,3,Below 5,1,2,3,0,0,2,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,5,No,3,5,Above 15,3,3,2,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Hard worker,5,No,3,5,Below 15,5,3,4,1,1,1,Yes,No,0
+,Below 30,Male,Small,Low class,Introvert,Below 5,First rows,Average,3,No,1,1,Above 15,1,2,Above 4,1,1,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,5,Below 5,3,3,3,1,1,2,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Last rows,Average,5,No,3,3,Below 15,5,3,Above 4,0,1,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Average,5,No,1,3,Below 5,3,2,1,1,1,2,No,Yes,0
+,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 10,3,2,Above 4,1,0,2,No,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Negligent,3,No,1,3,Above 15,5,3,2,1,1,3,Yes,No,0
+,Below 30,Male,Joint,Middle class,Extrovert,Above 15,First rows,Average,3,No,5,5,Below 5,5,4,3,0,0,1,Yes,No,0
+,Below 40,Female,Small,Low class,Introvert,Below 5,Middle rows,Average,3,Yes,3,3,Above 15,3,2,1,1,1,1,Yes,No,0
+,Below 30,Male,Small,Low class,Introvert,Below 5,First rows,Average,1,No,3,1,Above 15,1,1,1,1,1,3,No,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,Yes,5,5,Below 5,5,3,1,0,0,0,No,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,5,No,5,3,Below 5,3,2,4,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Hard worker,5,Yes,3,3,Below 5,5,2,1,1,1,1,Yes,Yes,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Above 15,5,3,1,1,0,1,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,5,2,4,0,1,0,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,3,Above 15,3,2,1,1,0,1,Yes,No,0
+,Below 40,Male,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,1,5,Below 5,5,2,4,0,0,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Average,3,Yes,3,3,Below 15,3,3,1,1,1,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,3,3,Below 5,3,3,3,0,0,0,Yes,No,0
+,Below 40,Male,Small,Middle class,Extrovert,Above 15,First rows,Hard worker,5,No,5,5,Above 15,5,4,3,0,0,0,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,2,2,1,1,2,Yes,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,5,No,5,3,Below 5,5,3,1,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,1,1,2,3,No,No,0
+,Below 60,Female,Joint,Low class,Introvert,Below 2,Middle rows,Negligent,1,No,1,1,Above 15,1,2,1,1,1,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Last rows,Average,3,No,3,5,Below 15,3,3,1,2,1,1,Yes,Yes,0
+,Below 40,Male,Small,Middle class,Introvert,Below 2,Middle rows,Average,3,No,5,3,Above 15,3,3,1,1,2,2,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,5,Yes,5,3,Below 5,3,2,1,0,1,1,Yes,No,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,3,Yes,3,3,Below 15,5,3,3,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Above 15,3,3,1,1,1,1,No,No,1
+,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,1,3,Below 5,5,2,2,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Hard worker,3,No,3,3,Below 5,5,2,4,1,0,2,No,No,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,5,Below 5,1,3,5,0,0,0,Yes,No,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Above 15,3,1,1,1,2,0,No,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,No,1,3,Below 15,5,4,Above 4,2,1,0,No,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Last rows,Average,3,No,1,5,Above 15,3,3,2,0,1,1,Yes,No,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,3,3,Below 5,1,3,1,0,0,0,No,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,5,No,3,3,Below 15,3,2,2,0,0,1,No,Yes,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,5,3,Below 5,5,3,Above 4,0,0,1,Yes,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,5,4,4,2,2,2,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,First rows,Hard worker,5,Yes,3,3,Above 15,3,2,4,0,1,2,No,Yes,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 15,5,3,4,1,1,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,3,Above 15,5,3,1,1,1,1,Yes,No,0
+,Below 40,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,2,3,1,0,2,No,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,3,3,Below 15,3,4,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,2,4,0,0,1,Yes,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Hard worker,5,Yes,3,5,Above 15,3,2,Above 4,0,1,1,No,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,Middle rows,Average,3,Yes,3,3,Below 5,3,3,Above 4,0,0,0,Yes,Yes,0
+,Below 40,Female,Small,Middle class,Introvert,Below 5,First rows,Hard worker,3,No,5,3,Above 15,3,4,1,0,0,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,No,3,3,Below 15,3,2,2,1,0,1,No,Yes,0
+,Below 40,Female,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,3,No,3,3,Above 15,5,1,1,1,2,1,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Extrovert,Below 10,Middle rows,Hard worker,5,No,3,5,Below 5,3,4,1,0,0,1,Yes,Yes,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 2,Middle rows,Average,5,Yes,3,5,Below 15,3,1,1,1,1,0,No,No,0
+,Below 30,Female,Small,High class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,4,5,2,0,0,0,No,No,1
+,Below 40,Female,Small,Middle class,Extrovert,Below 15,Middle rows,Average,3,No,4,1,Below 15,4,3,Above 4,1,3,0,No,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Hard worker,4,Yes,2,5,Below 10,4,4,Above 4,1,0,1,No,No,0
+,Below 40,Female,Small,High class,Introvert,Below 5,Middle rows,Hard worker,5,No,4,3,Below 5,5,5,4,0,0,1,Yes,No,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Hard worker,5,No,5,5,Above 15,5,5,1,0,0,1,No,No,0
+,Below 40,Female,Small,High class,Extrovert,Below 2,Middle rows,Average,4,No,4,3,Below 15,4,4,3,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Negligent,3,No,3,3,Above 15,5,3,1,1,0,0,Yes,Yes,1
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 15,3,3,Above 4,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,No,No,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,5,3,Below 5,5,3,Above 4,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Above 15,1,4,4,2,2,2,No,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,Yes,3,3,Below 5,3,2,4,0,1,2,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,3,No,3,3,Above 15,2,3,4,1,1,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,5,3,1,1,1,1,No,No,0
+,Below 40,Female,Joint,High class,Introvert,Below 5,Middle rows,Hard worker,5,No,4,3,Below 15,5,5,4,0,0,1,No,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,5,5,Below 5,5,5,1,0,0,1,No,No,0
+,Below 40,Male,Small,High class,Extrovert,Below 2,Middle rows,Average,4,No,4,3,Below 5,4,4,3,1,1,1,No,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Negligent,3,No,3,3,Below 5,3,3,1,1,0,0,Yes,Yes,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,5,No,5,5,Above 15,5,1,Above 4,0,1,2,Yes,No,1
+,Below 50,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,No,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,1,No,1,1,Below 5,3,2,1,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Last rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,0
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Hard worker,5,No,1,1,Below 5,3,2,1,0,1,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,1,1,3,Yes,No,1
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,5,2,2,1,0,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,1,1,2,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,1,3,Below 5,5,3,3,1,1,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Last rows,Average,5,No,1,3,Above 15,2,4,4,2,2,2,No,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 2,Middle rows,Hard worker,5,Yes,3,3,Below 5,3,2,4,0,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Above 15,1,3,Above 4,1,1,0,Yes,Yes,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,3,Below 15,5,3,1,1,1,1,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,Yes,5,5,Below 15,2,1,4,0,1,2,No,No,1
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 40,Female,Joint,Middle class,Introvert,Below 5,First rows,Average,3,No,5,5,Below 15,3,3,Above 4,1,1,2,Yes,No,1
+,Below 40,Female,Joint,Middle class,Extrovert,Below 5,Middle rows,Hard worker,5,No,3,5,Below 15,5,3,1,1,1,2,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Last rows,Hard worker,5,No,5,5,Below 5,5,1,1,0,1,2,Yes,No,1
+,Below 50,Female,Small,Middle class,Extrovert,Below 10,Middle rows,Average,3,Yes,3,3,Below 15,3,3,3,1,1,2,No,No,1
+,Below 30,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,5,3,Above 4,0,1,0,Yes,No,0
+,Below 40,Male,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,3,Below 5,3,3,3,1,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,3,5,Above 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,First rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,Middle rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 2,First rows,Average,3,Yes,5,5,Below 5,5,3,2,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,0,0,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Below 5,3,2,3,0,0,1,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Above 15,1,2,3,0,0,1,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 10,First rows,Hard worker,5,Yes,3,5,Below 15,3,2,Above 4,0,1,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 10,Last rows,Average,3,Yes,3,3,Above 15,3,3,2,0,0,0,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,3,Yes,5,5,Below 15,5,3,2,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,1,1,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Above 15,3,2,3,0,0,1,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Below 5,1,2,3,1,0,1,Yes,Yes,0
+,Below 30,Male,Small,Low class,Introvert,Below 10,Last rows,Negligent,5,No,3,5,Below 5,3,2,2,0,0,2,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,1,5,Below 5,1,3,4,1,0,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,1,3,Below 10,3,2,1,1,1,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Above 15,3,2,3,0,0,1,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,3,Yes,5,5,Below 15,5,3,2,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,1,1,1,Yes,Yes,1
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 2,Middle rows,Average,3,No,1,3,Below 5,1,1,1,0,0,0,No,No,0
+,Below 30,Male,Joint,Middle class,Introvert,Below 5,First rows,Hard worker,3,Yes,1,3,Below 5,3,3,3,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,5,No,5,5,Below 5,5,3,1,0,0,1,No,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 2,Last rows,Average,1,No,1,1,Below 5,3,2,1,1,1,2,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,1,3,Above 15,3,2,2,0,1,3,Yes,No,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,Middle rows,Average,3,No,5,3,Below 15,3,3,2,1,0,2,Yes,No,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,Yes,1,3,Below 5,1,2,2,1,0,2,Yes,No,0
+,Below 30,Male,Small,Middle class,Extrovert,Below 10,First rows,Average,3,No,5,3,Below 5,5,3,1,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,3,5,Below 15,3,4,2,0,0,0,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,3,3,Above 15,3,2,2,1,1,1,No,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Hard worker,3,No,1,3,Below 5,5,3,Above 4,0,0,1,Yes,No,0
+,Below 30,Female,Small,Middle class,Introvert,Below 5,Middle rows,Hard worker,3,No,1,1,Above 15,3,1,1,0,1,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Above 15,First rows,Average,5,Yes,3,5,Below 5,3,3,Above 4,1,1,2,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Extrovert,Below 2,Middle rows,Average,3,Yes,5,5,Below 15,5,3,2,0,0,1,Yes,No,1
+,Below 30,Female,Small,Middle class,Extrovert,Below 2,Middle rows,Hard worker,3,Yes,5,5,Below 5,5,4,3,1,1,1,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,Middle rows,Average,3,No,5,5,Above 15,3,2,3,0,0,1,Yes,Yes,0
+,Below 30,Female,Joint,Middle class,Introvert,Below 2,First rows,Hard worker,5,No,3,3,Below 5,1,2,3,1,0,1,Yes,Yes,0
+,Below 30,Male,Small,Low class,Introvert,Below 10,Last rows,Negligent,5,No,3,5,Below 5,3,2,2,0,0,2,Yes,Yes,1
+,Below 30,Male,Small,Middle class,Introvert,Below 5,First rows,Average,5,No,1,5,Below 5,1,3,4,1,0,1,Yes,Yes,0
+,Below 30,Female,Small,Middle class,Extrovert,Below 5,First rows,Average,3,No,1,3,Below 10,3,2,1,1,1,2,Yes,No,0

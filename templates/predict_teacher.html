@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <title>Efficient Teacher</title>
+
+
+  <style>
+    .center {
+      margin: auto;
+      width: 60%;
+      padding: 10px;
+      background-color:lightgrey;
+      box-shadow: 2px 2px 2px grey;
+    }
+    .element {
+      margin: auto;
+      width: 100%;
+      border: 0.5px dotted rgb(83, 79, 79)
+    }
+    .element:hover {
+      box-shadow: 1px 1px 1px darkblue;
+    }
+    .element input {
+      width: 15px;
+      height: 15px;
+      margin:10px;  
+    }
+    .element p {
+      font: 30px;
+      font-weight: 30px;
+      color: black;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgb(81, 81, 160)">
+    <a class="navbar-brand" href="/"><img src="../static/img/logo2.jpg" alt="Teacher logo" width="50" height="50" /></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" href="/predict">Predict</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/evaluate">Evaluate</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About Us</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div> 
+    <div class ="center">
+      <h3 style="margin: 10px; background-color: rgb(81, 81, 160); color:white; text-align: center ">Predict Probability of being Teacher</h3> 
+      <form action="/efficient" method='post'>
+
+        <div class="element">
+          <p>Select age:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="age" value="0">
+            <label>Below 30</label><br>
+            <input type="radio"  name="age" value="1">
+            <label>Below 40</label><br>
+            <input type="radio"  name="age" value="2">
+            <label>Below 50</label>
+            <input type="radio"  name="age" value="3">
+            <label>Below 60</label>
+            </div>  
+        </div><br>  
+
+        <div class="element">
+          <p>Select Gender:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio" id="male" name="gender" value="1">
+            <label >Male</label><br>
+            <input type="radio" id="female" name="gender" value="0">
+            <label >Female</label><br>
+            <input type="radio" id="other" name="gender" value="2">
+            <label >Other</label>
+            </div>  
+        </div><br> 
+
+        <div class="element">
+          <p>Select Family Type:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio"  name="family" value="0">
+            <label >small</label><br>
+            <input type="radio" name="family" value="1">
+            <label >joint</label><br>  
+          </div>
+        </div> <br>  
+
+        <div class="element">
+          <p>Family background during school days:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="background" value="0">
+            <label >Low class</label><br>
+            <input type="radio"  name="background" value="1">
+            <label >Middle class</label><br>
+            <input type="radio"  name="background" value="2">
+            <label >High class</label>
+            </div>  
+        </div><br> 
+
+        <div class="element">
+          <p>Types of person you were in School days:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="person" value="0">
+            <label >Introvert</label><br>
+            <input type="radio"  name="person" value="1">
+            <label >Extrovert</label><br>
+            <input type="radio"  name="person" value="2">
+            <label >Ambivert</label>
+            </div>  
+        </div><br> 
+
+        <div class="element">
+          <p>Number of close friends in School days:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="close" value="0">
+            <label >Below 2</label><br>
+            <input type="radio"  name="close" value="1">
+            <label >Below 5</label><br>
+            <input type="radio"  name="close" value="2">
+            <label >Below 10</label>
+            <input type="radio"  name="close" value="3">
+            <label >Below 15</label>
+            <input type="radio"  name="close" value="4">
+            <label >Above 15</label>
+            </div>  
+        </div><br> 
+
+        <div class="element">
+          <p>Bench row you used to seat on:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="bench" value="0">
+            <label >First rows</label><br>
+            <input type="radio" name="bench" value="1">
+            <label >Middle rows</label><br> 
+            <input type="radio" name="bench" value="2">
+            <label >Last rows</label><br>  
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Types of student you were:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="sts" value="0">
+            <label >Hard worker</label><br>
+            <input type="radio" name="sts" value="1">
+            <label >Average</label><br> 
+            <input type="radio" name="sts" value="2">
+            <label >Negligent</label><br>  
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Rate your relation with teacher out of 5 (school days):</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="realtion" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="realtion" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="realtion" value="3">
+            <label >3</label>
+            <input type="radio"  name="realtion" value="4">
+            <label >4</label>
+            <input type="radio"  name="realtion" value="5">
+            <label >5</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>During school life, had you decided to be a teacher?:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="decided" value="1">
+            <label >Yes</label><br>
+            <input type="radio"  name="decided" value="0">
+            <label >No</label><br>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Rate your leadership roles at school:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="leadership" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="leadership" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="leadership" value="3">
+            <label >3</label>
+            <input type="radio"  name="leadership" value="4">
+            <label >4</label>
+            <input type="radio"  name="leadership" value="5">
+            <label >5</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Give points to your skills of helping friends with the subject matters (rate out of 5):</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="skills" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="skills" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="skills" value="3">
+            <label >3</label>
+            <input type="radio"  name="skills" value="4">
+            <label >4</label>
+            <input type="radio"  name="skills" value="5">
+            <label >5</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Rank during school days:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="rank" value="1">
+            <label >Below 5</label><br>
+            <input type="radio"  name="rank" value="2">
+            <label >Below 10</label><br>
+            <input type="radio"  name="rank" value="3">
+            <label >Below 15</label>
+            <input type="radio"  name="rank" value="4">
+            <label >Above 15</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Give points to the extracurricular activities that you have done:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="extra" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="extra" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="extra" value="3">
+            <label >3</label>
+            <input type="radio"  name="extra" value="4">
+            <label >4</label>
+            <input type="radio"  name="extra" value="5">
+            <label >5</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Rate your presentation skill during school and HSS out of 5:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="presentation" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="presentation" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="presentation" value="3">
+            <label >3</label>
+            <input type="radio"  name="presentation" value="4">
+            <label >4</label>
+            <input type="radio"  name="presentation" value="5">
+            <label >5</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Number of tours you had attended in your school life:</p>
+            <div class="form-check form-check-inline" >
+            <input type="radio"  name="tours" value="1">
+            <label >1</label><br>
+            <input type="radio"  name="tours" value="2">
+            <label >2</label><br>
+            <input type="radio"  name="tours" value="3">
+            <label >3</label>
+            <input type="radio"  name="tours" value="4">
+            <label >4</label>
+            <input type="radio"  name="tours" value="5">
+            <label >Above 4</label>
+            </div>  
+        </div><br>
+
+        <div class="element">
+          <p>Remark your DLE(8th grade) result in division:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="8remark" value="0">
+            <label >Distinction</label><br>
+            <input type="radio" name="8remark" value="1">
+            <label >First division</label><br> 
+            <input type="radio" name="8remark" value="2">
+            <label >Second division</label><br>  
+            <input type="radio" name="8remark" value="3">
+            <label >Third division</label><br> 
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Remark your SLC(10th grade) result in division:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="10remark" value="0">
+            <label >Distinction</label><br>
+            <input type="radio" name="10remark" value="1">
+            <label >First division</label><br> 
+            <input type="radio" name="10remark" value="2">
+            <label >Second division</label><br>  
+            <input type="radio" name="10remark" value="3">
+            <label >Third division</label><br> 
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Remark your Bachelor result in division:</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="bachelor" value="0">
+            <label >Distinction</label><br>
+            <input type="radio" name="bachelor" value="1">
+            <label >First division</label><br> 
+            <input type="radio" name="bachelor" value="2">
+            <label >Second division</label><br>  
+            <input type="radio" name="bachelor" value="3">
+            <label >Third division</label><br> 
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Were you  inspired by any teacher at any point of life? :</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="inspired" value="1">
+            <label >Yes</label><br>
+            <input type="radio" name="inspired" value="0">
+            <label >No</label><br>  
+          </div>
+        </div> <br> 
+
+        <div class="element">
+          <p>Were there any teacher in your family member? :</p>
+          <div class="form-check form-check-inline">
+            <input type="radio" name="teacherfamily" value="1">
+            <label >Yes</label><br>
+            <input type="radio" name="teacherfamily" value="0">
+            <label >No</label><br>  
+          </div>
+        </div> <br> 
+        <button type='submit' class='btn btn-success'>Predict</button>
+      </form>
+    </div>
+      
+  </div>
+  </body>
+</html>
+

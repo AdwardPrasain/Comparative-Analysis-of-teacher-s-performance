@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Evaluate Result</title>
+</head>
+<body> 
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: rgb(81, 81, 160)">
+    <a class="navbar-brand" href="/"><img src="../static/img/logo2.jpg" alt="Teacher logo" width="50" height="50" /></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/predict">Predict</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/evaluate">Evaluate</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about">About Us</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+        <h3>Evaluation of teacher according to:</h3>
+        <h4>Decision Tree is</h4>
+        <input type="text" id="dtree" value={{dtree}}>
+        <h4>Random forest is</h4>
+        <input type="text" id="rfc" value={{rfc}}>
+        <br>
+        <h4>Logistic Regression is</h4>
+        <input type="text" id="logreg" value={{logreg}}>
+        <h4>Support Vector Machine is</h4>
+        <input type="text" id="svm" value={{svm}}> 
+        <button type="submit" class="btn btn-success" onclick="handleGraph()">See in graph</button>
+   
+        <div id="chartContainer" style="height: 300px; width: 100%;"></div>
+
+      
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+<script>
+const handleGraph= () => {
+        var dtree = parseFloat(document.getElementById('dtree').value);
+        var rfc = parseFloat(document.getElementById('rfc').value);
+        var logreg = parseFloat(document.getElementById('logreg').value);
+        var svm = parseFloat(document.getElementById('svm').value);
+        console.log(rfc, logreg, dtree);
+
+        var chart = new CanvasJS.Chart("chartContainer", {
+          animationEnabled: true,
+          theme: "light2",
+          title:{
+            text: "Prediction In Graph"
+          },
+          
+          data: [{        
+            type: "line",
+                indexLabelFontSize: 16,
+            dataPoints: [
+            { y: dtree, indexLabel: "Decision Tree", markerColor: "Parrot"},
+            { y: rfc , indexLabel: "Random Forest", markerColor: "Green"} ,
+            { y: logreg, indexLabel: "Logistic Regression", markerColor: "Blue"}, 
+            { y: svm, indexLabel: "Support Vector Machine", markerColor: "red"}
+            ]
+          }]
+
+        });
+        chart.render();
+        }
+        </script>   
+</body>
+</html>
